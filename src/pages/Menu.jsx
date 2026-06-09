@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Breadcrumbs from "../components/Breadcrumbs";
-import FoodCard from "../components/FoodCard";
+import FoodCard from "../components/Foodcard";
 
 import foods from "../data/foods";
 
